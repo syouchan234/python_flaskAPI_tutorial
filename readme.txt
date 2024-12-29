@@ -2,6 +2,7 @@
 https://devlog.mescius.jp/python-flask-web-api/#pythonflask
 初回リクエスト関連の解説はバージョンの仕様変更により書き方を変更
 
+Python 3.10.9
 
 Package                  Version
 ------------------------ ---------
